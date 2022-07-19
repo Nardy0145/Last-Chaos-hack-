@@ -1,0 +1,46 @@
+﻿  MyForm.cpp
+E:\Programming\C++\LC\LC\MyForm.h(353,28): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(386,22): warning C4244: аргумент: преобразование "FLOAT" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(387,22): warning C4244: аргумент: преобразование "FLOAT" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(388,22): warning C4244: аргумент: преобразование "FLOAT" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(406,53): warning C4244: =: преобразование "_Ty" в "FLOAT", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(407,71): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(408,53): warning C4244: =: преобразование "_Ty" в "FLOAT", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(412,53): warning C4244: =: преобразование "_Ty" в "FLOAT", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(413,75): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(414,53): warning C4244: =: преобразование "_Ty" в "FLOAT", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+E:\Programming\C++\LC\LC\MyForm.h(420,60): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(421,60): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(422,60): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(444,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Programming\C++\LC\LC\MyForm.h(445,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  maindll.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LC.vcxproj -> E:\Programming\C++\LC\Debug\LC.dll
